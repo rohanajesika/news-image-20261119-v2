@@ -1,7 +1,8 @@
 # Thursday 19 November 2026: 50 sourced stories, a UTC timeline and a date check
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/news-image-20261119)
-[![competition](https://make.fun/c/news-image-20261119/badge.svg)](https://make.fun/c/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/rohanajesika/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/rohanajesika/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 One image that sums up the world's news of **Thursday, 19 November 2026**:
